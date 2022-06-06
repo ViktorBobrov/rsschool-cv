@@ -1,0 +1,134 @@
+.menu_main {
+	display: flex;
+	padding: 0px;
+	justify-content: center;
+}
+
+.menu_item {
+	list-style: none;
+	padding: 13px;
+	position: relative;
+}
+
+.container_menu {
+	background-color: whitesmoke;
+	width: 100%;
+}
+
+.menu_link {
+	text-decoration: none;
+	font-size: 18px;
+	color: black;
+}
+
+.menu_item:hover {
+	background-color: azure;
+	text-decoration-line: underline;
+	text-transform: uppercase;
+	text-shadow: 1px 1px black;
+}
+
+.head_CV {
+	text-align: center;
+	font-size: 50px;
+}
+
+.my_photo {
+	display: inline-block;
+	border-radius: 100%;
+	overflow: hidden;
+}
+
+.face {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+.name_item {
+	text-decoration: none;
+	font-size: 25px;
+	color: black;
+}
+
+.about_me {
+	font-size: 18px;
+
+}
+
+.column {
+	white-space: nowrap;
+	font-size: 0;
+}
+
+.about_me {
+	white-space: normal;
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+	margin-right: 5%;
+	font-size: 14px;
+}
+
+.skills {
+	white-space: normal;
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+	margin-right: 5%;
+	font-size: 14px;
+}
+
+.experiense {
+	white-space: normal;
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+	margin-right: 5%;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.education_and_english {
+	white-space: nowrap;
+	font-size: 0;
+}
+
+.education {
+	white-space: normal;
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+	margin-right: 5%;
+	font-size: 14px;
+}
+
+.english {
+	white-space: normal;
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+	margin-right: 5%;
+	font-size: 14px;
+}
+
+.exp_paragraf {
+	font-weight: normal;
+}
+
+.social_media {
+	display: flex;
+	padding: 0px;
+	justify-content: center;
+	list-style: none;
+}
+
+.media_item {
+	text-decoration: none;
+	width: 50 px;
+	height: auto;
+}
+
+.icon {
+	width: auto;
+	height: 25px;
+}
