@@ -31,8 +31,8 @@
 	* RS school
 	* COURSERA
 	* Via the W3C website
-	****
+	******
 	##English
-	****
+	********
 	My level of english is intermediate.
 
