@@ -114,3 +114,15 @@
 	width: auto;
 	height: 25px;
 }
+.ul_list_course{
+	display: flex;
+	padding: 0px;
+	justify-content: center;
+	list-style: none;
+}
+.link_course{
+	text-decoration: none;
+	width: 150px;
+	height: auto;
+	margin-right: 15px;
+}
