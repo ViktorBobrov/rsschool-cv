@@ -16,7 +16,8 @@ In my work I use html, CSS, JavaScript (Beginner),BAM-metodology,GITHUB.
 I am using VS code to write the code.
 ******
 ## Code examples
-```function multiply(a, b){
+```
+function multiply(a, b){
 return  a * b
 }
 ```
